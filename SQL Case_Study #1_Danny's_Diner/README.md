@@ -1,7 +1,7 @@
-# 8-Week SQL Challenge
+# [8-Week SQL Challenge](https://8weeksqlchallenge.com/)
 
 
-##  Case Study #1 - Danny's Diner
+##  [Case Study #1 - Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)
 
 
 ### Problem Statement
