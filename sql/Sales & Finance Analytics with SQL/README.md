@@ -297,14 +297,3 @@ WHERE s.fiscal_year = 2021;
 - Analytical Thinking
 
 ---
-
-# Future Improvements
-- Power BI / Tableau dashboard integration
-- Automated ETL workflows
-- Forecast visualization dashboards
-- KPI monitoring reports
-
----
-
-# Author
-Your Name
